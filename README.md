@@ -1,6 +1,6 @@
 # Project_1-magist_dump-
 
-#All code details are in project_1.code
+#All code details are in project_sols.sql
 
 In this project its all about Magist Eniac’s strategy,the company has two main concerns:
 
