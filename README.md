@@ -4,7 +4,7 @@
 
 In this project its all about Magist Eniac’s strategy,the company has two main concerns:
 
-Is Magist a good fit for high-end tech products?
-Are orders delivered on time?
+1.Is Magist a good fit for high-end tech products?
+2.Are orders delivered on time?
 
 According to me Eniac is good fit for tech Products and thery are deliverd on time.
